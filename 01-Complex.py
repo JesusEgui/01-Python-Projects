@@ -1,3 +1,5 @@
+This is the final name generator
+
 import random
 import string
 
